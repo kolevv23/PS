@@ -1,0 +1,14 @@
+C:\Users\vaset\Desktop\New folder\ExpenseIT\obj\Debug\net5.0-windows\ExpenseIT.csproj.AssemblyReference.cache
+C:\Users\vaset\Desktop\New folder\ExpenseIT\obj\Debug\net5.0-windows\ExpenseITHome.g.cs
+C:\Users\vaset\Desktop\New folder\ExpenseIT\obj\Debug\net5.0-windows\ExpenseReport.g.cs
+C:\Users\vaset\Desktop\New folder\ExpenseIT\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\vaset\Desktop\New folder\ExpenseIT\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\vaset\Desktop\New folder\ExpenseIT\obj\Debug\net5.0-windows\ExpenseIT_MarkupCompile.cache
+C:\Users\vaset\Desktop\New folder\ExpenseIT\obj\Debug\net5.0-windows\ExpenseIT_MarkupCompile.lref
+C:\Users\vaset\Desktop\ПС Упражнения\ExpenseIT\obj\Debug\net5.0-windows\ExpenseIT.csproj.AssemblyReference.cache
+C:\Users\vaset\Desktop\ПС Упражнения\ExpenseIT\obj\Debug\net5.0-windows\ExpenseITHome.g.cs
+C:\Users\vaset\Desktop\ПС Упражнения\ExpenseIT\obj\Debug\net5.0-windows\ExpenseReport.g.cs
+C:\Users\vaset\Desktop\ПС Упражнения\ExpenseIT\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\vaset\Desktop\ПС Упражнения\ExpenseIT\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\vaset\Desktop\ПС Упражнения\ExpenseIT\obj\Debug\net5.0-windows\ExpenseIT_MarkupCompile.cache
+C:\Users\vaset\Desktop\ПС Упражнения\ExpenseIT\obj\Debug\net5.0-windows\ExpenseIT_MarkupCompile.lref

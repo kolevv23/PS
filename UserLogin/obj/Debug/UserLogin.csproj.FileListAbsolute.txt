@@ -1,0 +1,7 @@
+C:\Users\vaset\Desktop\PS_36_Vasko\UserLogin\bin\Debug\UserLogin.exe.config
+C:\Users\vaset\Desktop\PS_36_Vasko\UserLogin\bin\Debug\UserLogin.exe
+C:\Users\vaset\Desktop\PS_36_Vasko\UserLogin\bin\Debug\UserLogin.pdb
+C:\Users\vaset\Desktop\PS_36_Vasko\UserLogin\obj\Debug\UserLogin.csproj.AssemblyReference.cache
+C:\Users\vaset\Desktop\PS_36_Vasko\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\vaset\Desktop\PS_36_Vasko\UserLogin\obj\Debug\UserLogin.exe
+C:\Users\vaset\Desktop\PS_36_Vasko\UserLogin\obj\Debug\UserLogin.pdb
