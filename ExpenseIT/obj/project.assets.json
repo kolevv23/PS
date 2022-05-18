@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vaset\\Desktop\\ПС Упражнения\\ExpenseIT\\ExpenseIT.csproj",
+      "projectUniqueName": "C:\\Users\\vaset\\Desktop\\New folder\\ExpenseIT\\ExpenseIT.csproj",
       "projectName": "ExpenseIT",
-      "projectPath": "C:\\Users\\vaset\\Desktop\\ПС Упражнения\\ExpenseIT\\ExpenseIT.csproj",
+      "projectPath": "C:\\Users\\vaset\\Desktop\\New folder\\ExpenseIT\\ExpenseIT.csproj",
       "packagesPath": "C:\\Users\\vaset\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vaset\\Desktop\\ПС Упражнения\\ExpenseIT\\obj\\",
+      "outputPath": "C:\\Users\\vaset\\Desktop\\New folder\\ExpenseIT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vaset\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -69,7 +69,7 @@ namespace ExpenseIT {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ExpenseIT;component/expenseithome.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ExpenseIT;V1.0.0.0;component/expenseithome.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ExpenseITHome.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
