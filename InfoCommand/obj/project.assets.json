@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vaset\\Desktop\\New folder\\EasyMVVM\\EasyMVVM.csproj",
-      "projectName": "EasyMVVM",
-      "projectPath": "C:\\Users\\vaset\\Desktop\\New folder\\EasyMVVM\\EasyMVVM.csproj",
+      "projectUniqueName": "C:\\Users\\vaset\\Desktop\\New folder\\InfoCommand\\WpfExample.csproj",
+      "projectName": "WpfExample",
+      "projectPath": "C:\\Users\\vaset\\Desktop\\New folder\\InfoCommand\\WpfExample.csproj",
       "packagesPath": "C:\\Users\\vaset\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vaset\\Desktop\\New folder\\EasyMVVM\\obj\\",
+      "outputPath": "C:\\Users\\vaset\\Desktop\\New folder\\InfoCommand\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vaset\\AppData\\Roaming\\NuGet\\NuGet.Config",

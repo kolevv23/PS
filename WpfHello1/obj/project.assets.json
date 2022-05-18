@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vaset\\Desktop\\PS_36_Vasko\\WpfHello1\\WpfHello1.csproj",
+      "projectUniqueName": "C:\\Users\\vaset\\Desktop\\New folder\\WpfHello1\\WpfHello1.csproj",
       "projectName": "WpfHello1",
-      "projectPath": "C:\\Users\\vaset\\Desktop\\PS_36_Vasko\\WpfHello1\\WpfHello1.csproj",
+      "projectPath": "C:\\Users\\vaset\\Desktop\\New folder\\WpfHello1\\WpfHello1.csproj",
       "packagesPath": "C:\\Users\\vaset\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vaset\\Desktop\\PS_36_Vasko\\WpfHello1\\obj\\",
+      "outputPath": "C:\\Users\\vaset\\Desktop\\New folder\\WpfHello1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vaset\\AppData\\Roaming\\NuGet\\NuGet.Config",

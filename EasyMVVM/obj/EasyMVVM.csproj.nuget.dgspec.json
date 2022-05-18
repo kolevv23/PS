@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vaset\\Desktop\\PS_36_Vasko\\EasyMVVM\\EasyMVVM.csproj": {}
+    "C:\\Users\\vaset\\Desktop\\New folder\\EasyMVVM\\EasyMVVM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vaset\\Desktop\\PS_36_Vasko\\EasyMVVM\\EasyMVVM.csproj": {
+    "C:\\Users\\vaset\\Desktop\\New folder\\EasyMVVM\\EasyMVVM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vaset\\Desktop\\PS_36_Vasko\\EasyMVVM\\EasyMVVM.csproj",
+        "projectUniqueName": "C:\\Users\\vaset\\Desktop\\New folder\\EasyMVVM\\EasyMVVM.csproj",
         "projectName": "EasyMVVM",
-        "projectPath": "C:\\Users\\vaset\\Desktop\\PS_36_Vasko\\EasyMVVM\\EasyMVVM.csproj",
+        "projectPath": "C:\\Users\\vaset\\Desktop\\New folder\\EasyMVVM\\EasyMVVM.csproj",
         "packagesPath": "C:\\Users\\vaset\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vaset\\Desktop\\PS_36_Vasko\\EasyMVVM\\obj\\",
+        "outputPath": "C:\\Users\\vaset\\Desktop\\New folder\\EasyMVVM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vaset\\AppData\\Roaming\\NuGet\\NuGet.Config",

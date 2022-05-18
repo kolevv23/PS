@@ -31,11 +31,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vaset\\Desktop\\PS_36_Vasko\\WpfApp1\\StudentInfoSystem.csproj",
+      "projectUniqueName": "C:\\Users\\vaset\\Desktop\\New folder\\WpfApp1\\StudentInfoSystem.csproj",
       "projectName": "StudentInfoSystem",
-      "projectPath": "C:\\Users\\vaset\\Desktop\\PS_36_Vasko\\WpfApp1\\StudentInfoSystem.csproj",
+      "projectPath": "C:\\Users\\vaset\\Desktop\\New folder\\WpfApp1\\StudentInfoSystem.csproj",
       "packagesPath": "C:\\Users\\vaset\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vaset\\Desktop\\PS_36_Vasko\\WpfApp1\\obj\\",
+      "outputPath": "C:\\Users\\vaset\\Desktop\\New folder\\WpfApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vaset\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\vaset\\Desktop\\PS_36_Vasko\\UserLogin\\UserLogin.csproj": {
-              "projectPath": "C:\\Users\\vaset\\Desktop\\PS_36_Vasko\\UserLogin\\UserLogin.csproj"
+            "C:\\Users\\vaset\\Desktop\\New folder\\UserLogin\\UserLogin.csproj": {
+              "projectPath": "C:\\Users\\vaset\\Desktop\\New folder\\UserLogin\\UserLogin.csproj"
             }
           }
         }
